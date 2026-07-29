@@ -1,0 +1,48 @@
+In Part 2 of the Workato CLI series, we move beyond the terminal and start working with a real Workato project locally.
+
+In this video you'll learn how to:
+
+✅ Clone an existing Workato project
+✅ Open the project in Visual Studio Code
+✅ Explore recipes using the Recipe Visualizer
+✅ Make changes locally
+✅ Push updates back to Workato
+✅ Understand why recipe-lint blocks a push and how to troubleshoot it
+
+This is the workflow every Workato developer should know before integrating GitHub, AI coding assistants, and modern developer practices.
+
+━━━━━━━━━━━━━━━
+
+📺 Workato CLI Series
+
+Part 1 – Install & Authenticate the Workato CLI
+👉 https://youtu.be/YOUR_VIDEO_LINK
+
+Part 2 – Clone Projects, VS Code & Recipe Visualizer
+👉 You're watching it now
+
+Part 3 – GitHub Integration (Coming Next)
+
+━━━━━━━━━━━━━━━
+
+💻 Commands Used
+
+wk clone "<folder name>"
+wk push
+wk push --skip-hooks
+
+━━━━━━━━━━━━━━━
+
+🔗 Resources
+
+Workato CLI
+https://github.com/workato-devs/wk
+
+Visual Studio Code
+https://code.visualstudio.com/
+
+━━━━━━━━━━━━━━━
+
+If you found this helpful, consider subscribing. I'll be covering GitHub integration, AI-assisted development, MCP, Agent Studio, and more Workato developer workflows in future videos.
+
+#Workato #Integration #WorkatoCLI #VSCode #Automation #iPaaS #Developer #API
